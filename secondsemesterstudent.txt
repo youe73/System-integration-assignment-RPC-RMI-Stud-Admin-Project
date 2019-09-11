@@ -1,0 +1,22 @@
+1, Alexander Agregaard Nielsen	, 2
+3, Ali Raza Khan, 2
+4, Arkadiusz Paryz	, 2
+5, Benjamin Schultz Larsen	, 2
+8, David de Lima Fraga Alves, 2
+9, David Martin Carl, 2
+10, Elitsa Miroslavova Marinovska, 2
+12, Hallur Vid Neyst, 2
+17, István Farkas, 2
+18, Jacob Sørensen, 2
+21, Justas Satkus, 2
+24, Lovro Biljeskovic, 2
+30, Mircea Vlad Burac, 2
+31, Mohammad Hussin Saad, 2
+32, Mohammed Murad Hossain Sarker, 2
+34, Murched Kayed, 2
+38, Pravien Thaveenrasingam	, 2
+39, Rasmus Balder Nordbjærg	, 2
+40, Sean Altoft, 2
+42, Tjalfe Jon Klarskov Møller, 2
+43, Yakubu Adeyemi Oseni, 2
+44, Yosuke Ueda, 2

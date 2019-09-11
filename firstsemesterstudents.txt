@@ -1,0 +1,22 @@
+2, Alexander Winther Hørsted-Andersen, 1
+6, Christian Lind, 1
+7, Christoffer Dunk Ring, 1
+11, Gordon Egon Mikkelsen, 1
+13, Hassan Ali Mohdi, 1
+14, Hassan Raza Hussain	, 1
+15, Hazem Saeid	, 1
+16, Ian Mãnebo Frost, 1
+19, Jake Mogensen, 1
+20, Jonas Manley Pedersen, 1
+22, Kasper Kofoed, 1
+23, Kristoffer Rath Hansen, 1
+25, Mathias Bigler, 1
+26, Mathias Bartels Jensenius, 1
+27, Mathias Brinkmann Igel, 1
+28, Mikkel Lindstrøm Hansen	, 1
+29, Mikkel Wexøe Ertbjerg, 1
+33, Mohammed Omer Ul Haq, 1
+35, Nicolai Rosenkrands Mikkelsen, 1
+36, Nikolai Sjøholm Christiansen, 1
+37, Nikolaj Dyring Jensen, 1
+41, Stanislav Novitski, 1
